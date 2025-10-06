@@ -151,7 +151,7 @@ height: 100vh;
 
 /*ABOUT*/
 .aboutpagecontainer{     /*main content on children of homepage )*/
-background-color: #EE204D;
+background-color: #0080FF;
 
 display: grid;
 grid-template-columns: 1fr 1fr;
@@ -164,7 +164,7 @@ align-items: center;
 
 /*LESSONS*/
 .lessonpagecontainer{
-    background-color: #EE204D;
+    background-color: #0080FF;
 
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -179,7 +179,7 @@ align-items: center;
 
 /*CONTACT*/
 .contact a:link{
-    color: #f7eede;
+    color: #0080FF;
     text-decoration: none;
 
 }
