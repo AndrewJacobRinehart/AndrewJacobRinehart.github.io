@@ -8,7 +8,7 @@
 /*GLOBAL*/
 body {
 
-    background-color: #d3e4ff;
+    background-color: #f7fafc;
 
     font-family:  "Trebuchet MS","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif;
     color: #0A0A0A;
@@ -26,7 +26,7 @@ body {
 header{
 
     font-family: rockwell, Courier Bold,Courier,Georgia,Times,"Times New Roman",serif;
-    color:  #d3e4ff;                /*text colour*/
+    color:  #f7fafc;                /*text colour*/
     font-weight: lighter;
     font-size: 5vh;
     text-align: left;
@@ -45,7 +45,7 @@ footer{
     padding: 1.8vh;
     text-align: center;
     background-color: #0A0A0ADD;
-    color: #d3e4ff;
+    color: #f7fafc;
     position:fixed;
     bottom: 0;
 }
